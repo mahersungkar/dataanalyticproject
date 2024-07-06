@@ -2,7 +2,7 @@
 
 ## Pendahuluan
 
-Analisis ini dilakukan untuk memahami efektivitas kampanye pemasaran dan mengidentifikasi faktor-faktor yang mempengaruhi penjualan. Dataset yang digunakan mencakup informasi tentang pendapatan pelanggan, jumlah tanggungan, pengeluaran pada berbagai produk, dan interaksi dengan kampanye pemasaran.
+Analisis ini dilakukan untuk memahami efektivitas kampanye pemasaran dan mengidentifikasi faktor-faktor yang mempengaruhi penjualan. Dataset yang digunakan mencakup informasi tentang pendapatan pelanggan, jumlah tanggungan, pengeluaran pada berbagai produk, dan interaksi dengan kampanye pemasaran. Dataset dapat diakses di [Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data).
 
 ## Data Preprocessing
 
